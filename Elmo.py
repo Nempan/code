@@ -27,3 +27,6 @@ while dicecount < 4:
             print("Du har stannat på", spelarvärde, "poäng")
             break
     
+
+
+    fe
